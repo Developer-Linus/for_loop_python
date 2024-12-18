@@ -1,4 +1,4 @@
-This files demonstrate the use of **for loop** in Python. For loop can be used for:
+These files demonstrate the use of **for loop** in Python. For loop can be used for:
 - Iteration over **lists**.
 - Iteration over **tuples**.
 - Iteration over **strings**.
